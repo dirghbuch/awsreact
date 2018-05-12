@@ -3,48 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_360c7ca1ebfe94b712eb296e21e1f1397d6d5cec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_37114d6d5882b08dff4bc8bd7a6f430bd70028c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_18887220315a641e3e1ec2ae658566425d402d44.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_fb68359fe29894474660ca44c7a27100892bb152.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_387a6cb13de44a78d65403b3b436b86fd8b874fe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,39 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_27f2211b84c4541a082863115c5d9f5270ac962a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/dirgh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
         <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e382fdc63f1080698ea5724a1d69be4e031b1861.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/awsmobilereactnativesample/react-native-fetch-blob/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e8d6fcb1e824564c4bd31e9787152f67f3709096">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/awsmobilereactnativesample-react-native-fetch-blob-unspecified_3b9fa3c3b8e87655c04b6be50bda7c5be7ed12df.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/awsmobilereactnativesample/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="526a445406d661bb9c5606b74ab6ddf34a4b3004">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/awsmobilereactnativesample-react-native-vector-icons-unspecified_01b1ec1776f1a8020f09e4e979eaf6b4913d0998.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,24 +66,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e93f3a0ad8569f74caf498448f8c09cf7252fe6e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="576b5113887747a7592650ae14d980e1c57983c4">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_27479a1b1a2285a6505bc68d3c720d87b288e1a6.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -162,6 +81,96 @@
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
         <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_bfb9d2805406878fd32c722dac2fb20baeadd897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_0e97fdb8b87fcabfdb942d9b5ab179eb817ae212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_360c7ca1ebfe94b712eb296e21e1f1397d6d5cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_37114d6d5882b08dff4bc8bd7a6f430bd70028c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_18887220315a641e3e1ec2ae658566425d402d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_387a6cb13de44a78d65403b3b436b86fd8b874fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_27f2211b84c4541a082863115c5d9f5270ac962a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/awsmobilereactnativesample/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e8d6fcb1e824564c4bd31e9787152f67f3709096">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/awsmobilereactnativesample-react-native-fetch-blob-unspecified_3b9fa3c3b8e87655c04b6be50bda7c5be7ed12df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/awsmobilereactnativesample/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="526a445406d661bb9c5606b74ab6ddf34a4b3004">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/awsmobilereactnativesample-react-native-vector-icons-unspecified_01b1ec1776f1a8020f09e4e979eaf6b4913d0998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e93f3a0ad8569f74caf498448f8c09cf7252fe6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_27479a1b1a2285a6505bc68d3c720d87b288e1a6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -189,15 +198,6 @@
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3c50ce9e987589635d9761a8832a784565ebf06a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/home/dirgh/Projects/bolo/db_bolo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_0e97fdb8b87fcabfdb942d9b5ab179eb817ae212.jar" />
     </item>
     <item
         is-multidex="false"
